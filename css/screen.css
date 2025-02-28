@@ -294,3 +294,18 @@ p {
 	}
 }
 
+@media screen and (min-width: 1200px) {
+	form {
+		width: 45%;
+		max-width: 500px;
+		padding: 40px;	
+	}
+	
+	#input-email input {
+		width: 70%
+	}
+	
+	#input-submit input[type="submit"] {
+		width: 30%
+	}
+}

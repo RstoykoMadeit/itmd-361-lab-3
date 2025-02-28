@@ -229,7 +229,7 @@ p {
 }
 #input-email {
 	display: flex;
-	algin-items: center;
+	text-align: center;
 	gap: 10px; /* Found out how to do this with google */
 }
 

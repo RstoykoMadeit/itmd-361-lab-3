@@ -205,7 +205,7 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 form {
-	box-sizing: content-box;
+	box-sizing: border-box;
 	background-color: #666a6d;
 }
 

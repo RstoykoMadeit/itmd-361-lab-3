@@ -217,13 +217,13 @@ form {
 h1 {
 	text-align: center;
 	padding-top: 10px;
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 	color: #d7d2cb;
 	font-size: 1.43em;
 }
 
 p {
-	font-size: 0.97em;
+	font-size: 1.14em;
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -236,8 +236,8 @@ p {
 	gap: 10px; /* Found out how to do this with google */
 }
 
-#input-email label {
-	font-size: 0.75em;
+label {
+	font-size: 0.97em;
 	width: 55px;
 	color: #d7d2cb;
 }
@@ -248,6 +248,7 @@ p {
 	justify-content: center;
 	gap: 10px; /* Found out how to do this with google */
 }
+
 
 
 

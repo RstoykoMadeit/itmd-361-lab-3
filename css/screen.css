@@ -236,7 +236,7 @@ p {
 	gap: 10px; /* Found out how to do this with google */
 }
 
-label {
+#input-email label {
 	font-size: 0.97em;
 	width: 55px;
 	color: #d7d2cb;
@@ -247,6 +247,11 @@ label {
 	align-items: right;
 	justify-content: center;
 	gap: 10px; /* Found out how to do this with google */
+}
+
+#input-age-verification label {
+	font-size: 0.97em;
+	color: #d7d2cb;
 }
 
 

@@ -260,6 +260,10 @@ p {
 	justify-content: center;
 }
 
+#input-submit input[type"submit"] {
+	background-color: #d7d2cb;
+}
+
 
 
 

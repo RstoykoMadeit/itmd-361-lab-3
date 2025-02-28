@@ -214,6 +214,9 @@ form {
 	padding: 0 20px;
 	margin: 30px auto;
 }
+body {
+	background-image: url("../image/lab3-background.png"); /* saw jalan tong's background and wanted my own */
+}
 
 h1 {
 	text-align: center;

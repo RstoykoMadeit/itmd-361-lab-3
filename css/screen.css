@@ -270,6 +270,7 @@ p {
 	border: none;
 	background-color: #343434;
 	color: #d7d2cb;
+	padding: 0px 20px;
 	margin: auto;
 }
 
@@ -281,4 +282,15 @@ p {
 
 
 /* ===== STATE STYLES ======= */
+
+@media screen and (min-width: 768) {
+	form {
+		width: 70%;
+		padding: 25px;
+	}
+	
+	#input-email input {
+		width: 80%;
+	}
+}
 

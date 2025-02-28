@@ -247,6 +247,7 @@ p {
 	align-items: right;
 	justify-content: center;
 	padding-top: 10px;
+	padding-bottom: 10px;
 	gap: 10px; /* Found out how to do this with google */
 }
 
@@ -261,10 +262,14 @@ p {
 }
 
 #input-submit input[type="submit"] {
+	border: none;
 	background-color: #666a6d;
 	color: #d7d2cb;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	margin: auto;
+}
+
+#input-submit input[type="submit"]:hover {
+	background-color: white;
 }
 
 

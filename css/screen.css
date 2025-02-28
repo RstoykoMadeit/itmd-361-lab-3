@@ -261,7 +261,10 @@ p {
 }
 
 #input-submit input[type"submit"] {
-	background-color: #d7d2cb;
+	background-color: #666a6d;
+	color: #d7d2cb;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 

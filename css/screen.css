@@ -206,6 +206,7 @@ label {
 
 form {
 	box-sizing: border-box;
+	font-family: "Inconsolata", monospace, sans-serif;
 	background-color: #666a6d;
 	height: 75%;
 	width: 90%;

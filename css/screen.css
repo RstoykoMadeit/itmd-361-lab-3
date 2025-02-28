@@ -208,10 +208,11 @@ form {
 	box-sizing: border-box;
 	font-family: "Inconsolata", monospace, sans-serif;
 	background-color: #666a6d;
+	width: 80%;
 	min-height: 500px;
 	min-width: 350px;
 	padding: 0 20px;
-	margin: 0 auto;
+	margin: 30px auto;
 }
 
 h1 {

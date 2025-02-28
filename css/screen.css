@@ -211,12 +211,14 @@ form {
 	width: 90%;
 	padding-left: 20px;
 	padding-right: 20px;
+	margin: 0 auto;
 }
 
 h1 {
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 30px;
+	color: #343434;
 }
 
 /* ===== STATE STYLES ======= */

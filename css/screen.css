@@ -246,6 +246,7 @@ p {
 	display: flex;
 	align-items: right;
 	justify-content: center;
+	padding-top: 10px;
 	gap: 10px; /* Found out how to do this with google */
 }
 

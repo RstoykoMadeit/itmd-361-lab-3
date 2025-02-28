@@ -223,6 +223,7 @@ h1 {
 }
 
 p {
+	font-size: 0.97em;
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -235,7 +236,8 @@ p {
 	gap: 10px; /* Found out how to do this with google */
 }
 
-#input-email-label {
+#input-email label {
+	font-size: 0.75em;
 	width: 55px;
 	color: #d7d2cb;
 }

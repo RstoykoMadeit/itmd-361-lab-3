@@ -207,6 +207,8 @@ label {
 form {
 	box-sizing: border-box;
 	background-color: #666a6d;
+	height: 75%;
+	width: 35%;
 }
 
 

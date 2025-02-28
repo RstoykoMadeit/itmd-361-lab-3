@@ -255,6 +255,11 @@ p {
 	color: #d7d2cb;
 }
 
+#input-submit {
+	display: flex;
+	justify-content: center;
+}
+
 
 
 

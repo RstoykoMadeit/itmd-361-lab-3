@@ -235,14 +235,14 @@ p {
 	gap: 10px; /* Found out how to do this with google */
 }
 
-label {
+#input-email-label {
 	width: 55px;
 	color: #d7d2cb;
 }
 
 #input-age-verification {
 	display: flex;
-	align-items: center;
+	align-items: right;
 	justify-content: center;
 	gap: 10px; /* Found out how to do this with google */
 }

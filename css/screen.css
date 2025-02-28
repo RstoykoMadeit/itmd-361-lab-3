@@ -235,10 +235,19 @@ p {
 	gap: 10px; /* Found out how to do this with google */
 }
 
-#input-email label {
-	width: 100px;
+label {
+	width: 10px;
 	color: #d7d2cb;
 }
+
+#input-age-verification {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px; /* Found out how to do this with google */
+}
+
+
 
 /* ===== STATE STYLES ======= */
 

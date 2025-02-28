@@ -204,6 +204,11 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
+form {
+	box-sizing: border box;
+	background-color: #655967;
+}
+
 
 /* ===== STATE STYLES ======= */
 
